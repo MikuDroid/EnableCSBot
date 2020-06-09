@@ -7,9 +7,9 @@ Enable Bots on Counter-Strike 1.6 Steam / maybe Non-Steam? A Metamod module to e
 Whole script kanged from [CSBotEnabler](https://github.com/Arkshine/CSBotEnabler) , also included [CS Bot Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1725204346)
 
 __What are the difference?__
--Plug and play (i hope)
--Included Bot Menu so you don't have to use console for adjusting bot settings
--Included stock maps NAV
+ - Plug and play (i hope)
+ - Included Bot Menu so you don't have to use console for adjusting bot settings
+ - Included stock maps NAV
 
 ## Configuration
 
