@@ -4,7 +4,7 @@ Enable Bots on Counter-Strike 1.6 Steam / maybe Non-Steam? A Metamod module to e
 
 ## Introduction
 
-Whole script kanged from https://github.com/Arkshine/CSBotEnabler , also included Bot Menu from https://steamcommunity.com/sharedfiles/filedetails/?id=1725204346
+Whole script kanged from [CSBotEnabler](https://github.com/Arkshine/CSBotEnabler) , also included [CS Bot Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1725204346)
 
 __What are the difference?__
 -Plug and play (i hope)
@@ -39,7 +39,7 @@ cmdlist bot
 
 1. Stop your server
 2. Clone this repo or Download as zip 
-4. Unzip the contents to :open_file_folder:`cstrike`
+4. Move / Unzip the contents to :open_file_folder:`cstrike`
 5. Open & add an entry in :page_facing_up:`metamod/plugins.ini`:
     <table>
         <tr>
